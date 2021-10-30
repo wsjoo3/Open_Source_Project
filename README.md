@@ -8,6 +8,15 @@
 |-|Week3|학습시킨 데이터를 RaspberryPi에 적용해 테스트|
 |-|WeeK4|설정값을 변경하며 원하는 결과가 나올 때까지 테스트 진행|
 
+## Needs
+
+- >Darknet YOLO3 Tiny Framework
+- >keras Library
+- >RaspberryPi
+    - Camera
+    - Speaker
+
+
 ## Dataset 구하기
 데이터셋 구하는 방법은 크게 두가지가 있다. 직접 수집하는 방법과 오픈 데이터셋을 이용하는 방법이다.   
 우선 YOLO 모델이 정상적으로 돌아가는지 확인을 할 필요가 있어 오픈 데이터셋을 이용하기로 했다.   
